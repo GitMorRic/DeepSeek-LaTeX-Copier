@@ -1,4 +1,4 @@
-# deepseek-latex-copier
+# DeepSeek-LaTeX-Copier
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GreasyFork](https://img.shields.io/badge/GreasyFork-Click_to_Install-green.svg)](#)
 
