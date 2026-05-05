@@ -1,6 +1,6 @@
 # DeepSeek-LaTeX-Copier
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GreasyFork](https://img.shields.io/badge/GreasyFork-Click_to_Install-green.svg)]([https://greasyfork.org/zh-CN/scripts/576764-deepseek-latex-copier-deepseek%E5%85%AC%E5%BC%8F%E5%A4%8D%E5%88%B6%E5%99%A8])
+[![GreasyFork](https://img.shields.io/badge/GreasyFork-Click_to_Install-green.svg)](https://greasyfork.org/zh-CN/scripts/576764-deepseek-latex-copier-deepseek%E5%85%AC%E5%BC%8F%E5%A4%8D%E5%88%B6%E5%99%A8)
 
 一个用于解决DeepSeek网页版数学公式(LaTeX)复制乱码问题的Tampermonkey（油猴)用户脚本
 
@@ -18,7 +18,7 @@
 ## 🛠️安装说明 (Installation)
 1. 安装浏览器扩展程序 **Tampermonkey** (油猴)。
 2. ⚠️ **【极其重要】**：在浏览器的扩展程序管理页 (`chrome://extensions/`) 中，必须打开右上角的 **[开发者模式] (Developer mode)**！否则脚本会被浏览器拦截。
-3. 点击此处一键安装脚本：[👉 安装 DeepSeek LaTeX Copier]([https://greasyfork.org/zh-CN/scripts/576764-deepseek-latex-copier-deepseek%E5%85%AC%E5%BC%8F%E5%A4%8D%E5%88%B6%E5%99%A8]) 
+3. 点击此处一键安装脚本：[👉 安装 DeepSeek LaTeX Copier](https://greasyfork.org/zh-CN/scripts/576764-deepseek-latex-copier-deepseek%E5%85%AC%E5%BC%8F%E5%A4%8D%E5%88%B6%E5%99%A8) 
 
 ## 更新日志 (Changelog)
 - V1.0.0: 20260506,初次提交,实现悬停高亮、双击复制、极简胶囊提示，彻底清洗剪贴板双通道数据
