@@ -18,7 +18,8 @@
 ## 🛠️安装说明 (Installation)
 1. 安装浏览器扩展程序 **Tampermonkey** (油猴)。
 2. ⚠️ **【极其重要】**：在浏览器的扩展程序管理页 (`chrome://extensions/`) 中，必须打开右上角的 **[开发者模式] (Developer mode)**！否则脚本会被浏览器拦截。
-3. 点击此处一键安装脚本：[👉 安装 DeepSeek LaTeX Copier](https://greasyfork.org/zh-CN/scripts/576764-deepseek-latex-copier-deepseek%E5%85%AC%E5%BC%8F%E5%A4%8D%E5%88%B6%E5%99%A8) 
+3. 点击此处一键安装脚本：[👉 安装 DeepSeek LaTeX Copier](https://greasyfork.org/zh-CN/scripts/576764-deepseek-latex-copier-deepseek%E5%85%AC%E5%BC%8F%E5%A4%8D%E5%88%B6%E5%99%A8)
+4. 或者把github仓库里deepseek-latex-copier.user.js文件内的所有内容，手动复制，在您油猴插件中新建一个脚本，然后粘贴该文件中的内容
 
 ## 更新日志 (Changelog)
 - V1.0.0: 20260506,初次提交,实现悬停高亮、双击复制、极简胶囊提示，彻底清洗剪贴板双通道数据
